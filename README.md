@@ -50,6 +50,7 @@ root/
 │   │── components/   # Reusable UI components
 │   │── pages/        # Page components (Login, Users List, etc.)
 │   │── redux/        # Redux slices and store configuration
+│   │── images/       # Image used in the project
 │   │── App.js        # Main app component
 │   │── index.js      # Entry point
 │── package.json      # Dependencies and scripts
