@@ -62,5 +62,5 @@ root/
 - Modify API URLs if needed.
 - Authentication is handled using `localStorage` for simplicity.
 
-Enjoy coding! 🚀
+Depolyed Link :- https://empwise.netlify.app/
 
